@@ -1,4 +1,3 @@
-package Stable;
 
 import java.util.Scanner;
 
